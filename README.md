@@ -7,7 +7,7 @@ Features
 - Go to definition for modules and functions with `Shift+Click`
 - Errors and warnings via [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3).
 
-*This package does not offer syntax highlighting. Use the offical [Elixir TextMate bundle](https://github.com/elixir-lang/elixir-tmbundle).*
+*This package does not offer syntax highlighting. Use the official [Elixir TextMate bundle](https://github.com/elixir-lang/elixir-tmbundle).*
 
 Demo
 ----
